@@ -185,6 +185,7 @@ useful:
 * nmap
 * eliza
 * Trivia Game (vn at hackfest d0t ca)
+* Bree Olson
 * Python
 * And every project I forgot
 
